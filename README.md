@@ -10,11 +10,9 @@ Examples of simple codes as an introduction to IoT. Bootcamp by Maker Skills.
 
 ## Getting Started
 
--x-
+Install Arduino IDE, Angular, Node Js, Altium Designer.
 
 ### Dependencies
-
-- Os : Windows 10
 
 - SW :
     - Arduino IDE
@@ -22,21 +20,10 @@ Examples of simple codes as an introduction to IoT. Bootcamp by Maker Skills.
     - Altium desiger
 
 - Libraries : 
-    - Espressif ESP32 for Arduino, +++others+++
+    - Espressif ESP32 for Arduino
+    - Firebase for ESp32
 
 - HW needed : ESP32-S2 Wroom develepment board
-
-### Installing
-
--x-
-
-### Executing program
-
--x-
-
-## Help
-
--x-
 
 ## Authors
 
@@ -49,7 +36,3 @@ Maker Skills : https://makerskillsup.com
 ## License
 
 This project is licensed under the [MIT] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
--x-
