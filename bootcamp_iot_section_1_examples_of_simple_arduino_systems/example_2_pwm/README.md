@@ -1,6 +1,8 @@
-# Led+button
+# PWM
 
-This project allows you to command a led by pressing a button.
+Use PWM to change the brightness of the led.
+- In the Version 1 : the led takes 4 values of brightness (0,25%,50%,100%). The led remains in each value for 1 second.
+- In the version 2 : the brightness of the led increases by a notch each 50 ms.
 
 ## Description
 
@@ -12,7 +14,7 @@ This project allows you to command a led by pressing a button.
 
 ![This is an alt text.](../img/electric%20schematics.png "This is a sample image.")
 
-- The arduino code is in "led+button.ino".
+- The arduino code for version 1 and version 2 is respectively in "pwm_4_values_of_brightness.ino" and "pwm_256_values_of_brightness.ino".
 
 ## Authors
 
