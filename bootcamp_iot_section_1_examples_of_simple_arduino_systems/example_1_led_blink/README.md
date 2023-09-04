@@ -9,12 +9,12 @@ This project blinks a led. The led is ON for 1 s then OFF for 1 s, in an infinit
 
 ## Getting Started
 
-- You need to have Arduino IDE installed.
+- Open Arduino IDE.
 - Install the ESP32 Arduino library from the board manager.
-- Make the sure the selected board is "ESP32 Development Board" from the menu "Tools".
-- Make sure the right usb port is selected for the ESP32 board.
+- Make sure that the selected board is "ESP32 Development Board".
+- Make sure the right usb port is selected for the ESP32 board (Tools > Port).
 - Upload the code.
-- 
+
 ## Authors
 
 Maker Skills : https://makerskillsup.com
