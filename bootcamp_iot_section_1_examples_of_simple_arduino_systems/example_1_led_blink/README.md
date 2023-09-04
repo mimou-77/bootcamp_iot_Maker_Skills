@@ -4,7 +4,14 @@ This project blinks a led. The led is ON for 1 s then OFF for 1 s, in an infinit
 
 ## Description
 
-- The wiring diagram is in "____".
+- The wiring diagram
+
+![This is an alt text.](../img/wiring%20diagram.png "This is a sample image.")
+
+- The electrical schematics (make sure to choose a resistor with a resitance value adpated to the led and the voltage/current of the MCU (Vmcu=5V))
+
+![This is an alt text.](../img/electric%20schematics.png "This is a sample image.")
+
 - The arduino code is in "blink_led.ino".
 
 ## Getting Started
