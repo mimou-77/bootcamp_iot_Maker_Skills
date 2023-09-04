@@ -25,7 +25,7 @@ Install Arduino IDE, Angular, Node Js, Altium Designer.
 
 - HW needed : ESP32-S2 Wroom develepment board
 
-- you may need to install ESP32 USB-to-UART-bridge drivers to allow the computer to connect with the board via the USB port. Drivers available [here](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads).
+- You may need to install ESP32 USB-to-UART-bridge drivers to allow the computer to connect with the board via the USB port. Drivers available [here](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads).
 
 ## Authors
 
