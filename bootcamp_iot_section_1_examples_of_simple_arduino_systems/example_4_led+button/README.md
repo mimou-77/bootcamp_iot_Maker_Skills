@@ -8,7 +8,7 @@ Pressing the button turns the led ON/OFF.
 
 ![This is an alt text.](../img/example_4.png "led+button")
 
-- The arduino code is in "led-relay.ino".
+- The arduino code is in "led-button.ino".
 ## Authors
 
 Maker Skills : https://makerskillsup.com
