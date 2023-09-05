@@ -1,7 +1,8 @@
 #include "Arduino.h"  // we need to include the "Arduino.h" library to be able to use the serial monitor methods.
+#include "WiFi.h"     // we need to include the "WiFi.h" library to be able to use the wifi methods.
 
-#define ssid "XX"     // replace "---" with the ssid of your network
-#define password "YY"  // replace "---" with the password of your network
+#define ssid "XX"     // replace "XX" with the ssid of your network
+#define password "YY"  // replace "YY" with the password of your network
 
 void setup() {
 
