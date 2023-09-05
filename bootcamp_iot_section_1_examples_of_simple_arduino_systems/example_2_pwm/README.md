@@ -1,8 +1,8 @@
 # PWM
 
 Use PWM to change the brightness of the led.
-- In the Version 1 : the led takes 4 values of brightness (0,25%,50%,100%). The led remains in each value for 1 second.
-- In the version 2 : the brightness of the led increases by a notch each 50 ms.
+- In the Version 1 (pwm_4_values_of_brightness) : the led takes 4 values of brightness (0,25%,50%,100%). The led remains in each value for 1 second.
+- In the version 2 (256 values of brightness) : the brightness of the led increases by a notch each 50 ms.
 
 ## Description
 
