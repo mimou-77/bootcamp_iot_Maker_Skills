@@ -1,6 +1,6 @@
-# led-relay
+# led-button
 
-The brightness of the led increases, when it reaches 50% the relay is ON, the brightness keeps increasing until it reaches 100% then it decreases, when it reaches 50%, the relay is OFF.
+Pressing the button turns the led ON/OFF.
 
 ## Description
 
