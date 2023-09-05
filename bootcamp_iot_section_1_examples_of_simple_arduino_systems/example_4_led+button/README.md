@@ -6,7 +6,7 @@ Pressing the button turns the led ON/OFF.
 
 - The wiring diagram
 
-![This is an alt text.](../img/example_3.png "led +relay")
+![This is an alt text.](../img/example_4.png "led+button")
 
 - The arduino code is in "led-relay.ino".
 ## Authors
