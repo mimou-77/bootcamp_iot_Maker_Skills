@@ -1,12 +1,12 @@
-# led+relay
+# led-relay
 
-- In version 1: the relay is ON when the brightness of the led reaches 100%. The relay is OFF when the brightness of the led reaches 0%. 
+the brightness of the led increases, when it reaches 50% the relay is ON, the brightness keeps increasing until it reaches 100% then it decreases, when it reaches 50%, the relay is OFF.
 
 ## Description
 
 - The wiring diagram
 
-![This is an alt text.](../img/example_3.png"led+relay.")
+![This is an alt text.](../img/example_3.png. "led +relay")
 
 - The arduino code is in "led+relay.ino".
 ## Authors
