@@ -4,8 +4,8 @@ Examples of simple systems as an introduction to IoT.
 
 ## Description
 
-- Section 1 : examples of simple arduino sytems to command some actuators and sensors.
-- Section 2 : a simple Altium project (design of a simple power PCB).
+- Section 1 : examples of simple arduino sytems.
+- Section 2 : example of a pcb design.
 - Section 3 : examples of simple IoT systems: an Angular web app visualises data stored in the cloud (Firebase). A simple embedded system (1 sensor, 1 actuator, 1 MCU with a Wifi module) communicates with the cloud via Wifi to send or recieve data. 
 
 ## Getting Started
