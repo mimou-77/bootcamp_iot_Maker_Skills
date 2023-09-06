@@ -1,4 +1,4 @@
-# ESP_sends_http_requests
+# example_7_http_client
 
 The ESP board connects to wifi, acquires data from a web server, and displays them on the serial monitor. We chose a weather API server that sends weather information about a position (latitude,longitude) specified in the URL. 
 
