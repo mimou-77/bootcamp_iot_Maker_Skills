@@ -4,8 +4,8 @@
 #include "WiFi.h"       // we need to include the "WiFi.h" library to be able to use the wifi methods.
 #include "HTTPClient.h" // we need to include the "HTTPClient.h" library to be able to use methods and classes of a http client.
 
-#define ssid "mimou"     // replace "XX" with the ssid of your network
-#define password "123456789"  // replace "YY" with the password of your network
+#define ssid "XX"     // replace "XX" with the ssid of your network
+#define password "YY"  // replace "YY" with the password of your network
 
 #define URL "https://api.open-meteo.com/v1/forecast?latitude=61.08614478657065&longitude=99.112454344346&current_weather=true&hourly=temperature_2m,relativehumidity_2m,windspeed_10m&quot" // the URL of 
 // the website we want to retrive data from 
